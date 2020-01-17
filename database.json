@@ -1,0 +1,43 @@
+﻿[
+  {
+    "name": "Example Tempalte",
+    "description": "This is the first template for this client",
+    "KB": [
+      {
+        "Name": "Article Name KB0000001",
+        "URL": "http://google.com"
+      },
+      {
+        "Name": "Article Name KB0000002",
+        "URL": "http://Microsoft.com"
+      }
+    ],
+    "notes": [
+      "This is step one",
+      "moving on to step two",
+      "now step three"
+    ]
+  },
+  {
+    "name": "Example Example",
+    "description": "This is the Second template for this client",
+    "KB": [
+      {
+        "Name": "Article Name KB0000001",
+        "URL": "http://google.com"
+      },
+      {
+        "Name": "Article Name KB0000002",
+        "URL": "http://Microsoft.com"
+      }
+    ],
+    "notes": [
+      "This is step one",
+      "moving on to step two NEW",
+      "now step three"
+    ]
+  }
+
+
+
+]
